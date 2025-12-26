@@ -14,17 +14,6 @@
 - ประเมินประสิทธิภาพของโมเดลด้วย metrics มาตรฐาน
 
 
-## เทคโนโลยีที่ใช้ (Technologies)
-
-- **Programming Language**: Python  
-- **Machine Learning**: scikit-learn  
-- **Data Processing**: pandas, NumPy  
-- **Visualization**: matplotlib, seaborn  
-- **Imbalanced Data Handling**: SMOTE  
-- **Environment**: Jupyter Notebook  
-
-
-
 ## ขั้นตอนการทำงาน (Workflow)
 
 ### 1. Exploratory Data Analysis (EDA)
